@@ -1,5 +1,4 @@
-### Hi 👋
-### I'm Ray Caballero
+### Hi 👋 I'm Ray Caballero
 
 <!--
 **raycaballero/raycaballero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
